@@ -2,5 +2,5 @@ line1
 updated line2 in dev3
 updated line3 in dev3
 line4
-line5
-line6
+updated line5 in master
+updated line5 line6 in master
