@@ -1,6 +1,7 @@
 line1
 line2
 line3
+updated line 4 in dev3
 updated line 4 in master
 updated line5 in master
 updated line5 line6 in master
